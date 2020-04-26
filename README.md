@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+to run on chrome - flutter run -d chrome
+
+have to enable flutter web first then run the command
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
